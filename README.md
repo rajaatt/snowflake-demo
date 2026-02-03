@@ -1,7 +1,7 @@
 # Snowflake Demo Project
 
 ## Overview  
-This project is a hands‑on introduction to Snowflake. We are learning how to set up databases and schemas, create tables, run queries, and explore more advanced concepts like staging, bulk loading, and pivoting data. 
+This project is a hands‑on introduction to Snowflake. We are learning how to set up databases and schemas, create tables, run queries, and explore more advanced theory concepts like staging, bulk loading, and pivoting data. 
 
 ## What We’ve Done So Far  
 - Created a demo database and schema (`demo_db`, `demo_sc`)  
